@@ -1,5 +1,7 @@
-# chrome-v8 - notes from HolyJS report about Chrome engine
+# chrome-v8 - notes from HolyJS report about Chrome engine 
+## Андрей Мелихов ( devSchacht ) 
 
+original resource:
 https://www.youtube.com/watch?v=SNs61SwZbTI&t=5s
 
 <img src='/assets/img_1.png'>
